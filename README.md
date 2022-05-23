@@ -1,4 +1,5 @@
-👋🏻 Hi, I’m @viiktr
+👋🏻 Hi, I’m @viiktr 
+---
 📎 Very new to github and development, I’m interested in making data understandable and presentable, exploring the depths of software and AI.
 🌱 I’m currently concentrated on learning Python but also doing different courses on BI, Agile, ML and Mainframe. Certified in PowerBI. 
 
