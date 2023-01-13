@@ -1,4 +1,4 @@
-$\color{teal}\text{👋🏻 Hello there (General Ke....), dear visitor! I’m @viiktr!}$
+$\color{teal}\text{Hello there (General Ke....), dear visitor! I’m @viiktr!}$
 ---
 <!--- The colored part took embarrassingly long to figure out --->
 Very new to GitHub and coding. Am I good? Time will tell.🔹
