@@ -1,4 +1,4 @@
-$\color{teal}\text{Hello there (General Ke....), dear visitor! I’m @viiktr!}$
+Hello there (General Ke....), dear visitor! I’m @viiktr!
 ---
 
 <!--- The colored part took embarrassingly long to figure out --->
