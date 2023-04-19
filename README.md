@@ -1,4 +1,4 @@
-Hello there (General Ke....), dear visitor! I’m @viiktr! <img height="35px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+Hello there (General Ke....), dear visitor! <img height="35px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 ---
 
 <!--- The colored part took embarrassingly long to figure out --->
